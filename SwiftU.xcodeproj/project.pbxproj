@@ -14,7 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		8CF14EE927D65782006D83E7 /* SwiftU.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftU.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8CF14EE927D65782006D83E7 /* SwiftUIStacks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIStacks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CF14EEC27D65782006D83E7 /* SwiftUApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUApp.swift; sourceTree = "<group>"; };
 		8CF14EEE27D65782006D83E7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8CF14EF027D65783006D83E7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -43,7 +43,7 @@
 		8CF14EEA27D65782006D83E7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8CF14EE927D65782006D83E7 /* SwiftU.app */,
+				8CF14EE927D65782006D83E7 /* SwiftUIStacks.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,7 +84,7 @@
 			);
 			name = SwiftU;
 			productName = SwiftU;
-			productReference = 8CF14EE927D65782006D83E7 /* SwiftU.app */;
+			productReference = 8CF14EE927D65782006D83E7 /* SwiftUIStacks.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -283,7 +283,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = NateW.SwiftU;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = SwiftUIStacks;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -312,7 +312,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = NateW.SwiftU;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = SwiftUIStacks;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
